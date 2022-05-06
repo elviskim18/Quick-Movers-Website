@@ -1,0 +1,58 @@
+*{
+   font-family: 'Poppins', 'Actor','Adamina';
+   padding: 0;
+   margin: 0;
+}
+
+ul{
+    list-style-type: none;
+}
+.head{
+    background-image: url("/Assets/Images/moving\ 1.png");
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    height: 70vh;
+
+}
+nav{
+    display: flex;
+    justify-content: center;
+}
+nav > ul{
+
+    justify-content: space-around;
+    
+}
+nav > ul > li{
+    margin: 15px;
+    display: inline-block;
+    padding: 10px;
+    color: rgba(247, 247, 247, 0.938);
+}
+#logIn{
+    color: black;
+    background-color: yellow;
+}
+#signUp{
+    color: yellow;
+    background-color: black;
+}
+.head > h1{
+    color: yellow;
+    margin-left: 30px;
+    font-weight: lighter;
+}
+.head > p{
+    color: white;
+    margin-left: 30px;
+    
+}
+.center{
+    height: 100px;
+    margin-bottom: 30px;
+    margin-top: 30px;
+    display: flex;
+}
+
+
