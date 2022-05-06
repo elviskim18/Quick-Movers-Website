@@ -1,5 +1,5 @@
 *{
-   font-family: 'Poppins', 'Actor','Adamina';
+   
    padding: 0;
    margin: 0;
 }
@@ -42,17 +42,53 @@ nav > ul > li{
     color: yellow;
     margin-left: 30px;
     font-weight: lighter;
+    font-size: 2em;
 }
 .head > p{
+    margin-top: 20px;
     color: white;
     margin-left: 30px;
+    font-size: 2em;
     
 }
 .center{
-    height: 100px;
+    height: 100vh;
     margin-bottom: 30px;
     margin-top: 30px;
     display: flex;
+    
 }
+.centtxt{
+    width: 50vw;
+    height: 400px;
+    padding: 10px;
+    position: relative;
+    transform: translateY(50%);
+    font-size: 2em;
+}
+.centtxt > h1{
+    font-weight: lighter;
+    font-size: 2em;
+    
+    margin-bottom: 10px;
+}
+.centtxt > button{
+    margin-top: 20px;
+    padding: 20px;
+    color: yellow;
+    background-color: black;
+    border-top-right-radius: 15px;
+}
+
+.center img{
+    
+    margin-right: 20px;
+}
+.gradient{
+    width:110px;
+    height:3px;
+    background-image: linear-gradient(to right, yellow , black);
+}
+
 
 
