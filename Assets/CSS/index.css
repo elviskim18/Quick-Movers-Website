@@ -288,3 +288,12 @@ ol{
 .text-right{
     display: inline-block;
 }
+
+     /*Center Section*/
+
+.center2{
+    height: 340vh;
+    background-color: rgba(90, 88, 88, 0.096);
+    margin-right: 20%;
+    margin-left: 20%;
+}
