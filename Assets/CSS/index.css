@@ -294,6 +294,28 @@ ol{
 .center2{
     height: 340vh;
     background-color: rgba(90, 88, 88, 0.096);
-    margin-right: 20%;
-    margin-left: 20%;
+    margin-right: 10%;
+    margin-left: 10%;
 }
+.Upper-cent{
+    display: flex;
+    justify-content: space-between;
+    height: 60vh;
+    margin-top: 3%;
+
+
+}
+.Up-img img{
+    display: inline-block;
+    height: 60vh;
+    width: 40vw;
+}
+.form-main{
+    display: inline-block;
+    width: 25vw;
+    color: black;
+}
+
+
+
+
