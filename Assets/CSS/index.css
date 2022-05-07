@@ -157,3 +157,8 @@ align-items: center;
     border-left:2px solid black ;
     border-right: 2px solid black;
 }
+i{
+    margin-right: 0.7rem;
+    font-size: 15px !important;
+    color: rgb(0, 0, 0);
+}
