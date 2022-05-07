@@ -240,5 +240,12 @@ ol{
     font-weight: lighter;
     font-style: italic;
     font-size: 1.5em;
-    margin-right: 2px;
+}
+    
+         /*PAGE 2 CSS*/
+.header{
+    height: 40vh;
+    background-color: black;
+    color: white;
+
 }
