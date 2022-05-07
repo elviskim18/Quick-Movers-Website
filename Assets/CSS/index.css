@@ -208,6 +208,7 @@ span{
     margin-top: 2%;
     height: 50vh;
     font-size: 2em;
+    
 }
 ol{
     list-style-type: none;
@@ -219,6 +220,10 @@ ol{
     background-color: blueviolet;
     align-items: center;
     font-size: 2em;
+}
+.S-icons i{
+    color: white;
+    margin: 1.0em;
 }
 .Q-links{
     background-color: yellow;
