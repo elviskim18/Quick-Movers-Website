@@ -243,9 +243,30 @@ ol{
 }
     
          /*PAGE 2 CSS*/
+
 .header{
     height: 40vh;
     background-color: black;
     color: white;
-
+}
+.navlinks{
+    display: flex;
+    justify-content: flex-end;
+    margin-right: 20%;
+    
+    
+}
+.navlinks > ol > li{
+    display: inline-block;
+    justify-content:space-around;
+    padding: 2em;
+    margin-top: 3%;
+    
+}
+#S-button{
+    background-color: #FFAC12;
+    border-top-right-radius: 10%;
+    color: black;
+    margin-left:20px ;
+    padding: 15px;
 }
