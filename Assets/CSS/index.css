@@ -245,8 +245,8 @@ ol{
          /*PAGE 2 CSS*/
 
 .header{
-    height: 40vh;
-    background-color: black;
+    height: 28vh;
+    background-image: linear-gradient(to right, black , #1f1401ef);
     color: white;
 }
 .navlinks{
@@ -269,4 +269,22 @@ ol{
     color: black;
     margin-left:20px ;
     padding: 15px;
+}
+.gradient4{
+    border: solid white;
+    border-width: thin;
+    opacity: 0.2;
+}
+.h-texts{
+    margin-left: 10%;
+    margin-right: 20%;
+    margin-top: 3%;
+    display: flex;
+    justify-content: space-between;
+}
+.text-left{
+    display: inline-block;
+}
+.text-right{
+    display: inline-block;
 }
