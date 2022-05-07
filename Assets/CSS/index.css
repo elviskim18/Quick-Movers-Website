@@ -205,4 +205,36 @@ span{
     justify-content: space-between;
     margin-left: 10%;
     margin-right: 10%;
+    margin-top: 2%;
+    height: 50vh;
+    font-size: 2em;
+}
+ol{
+    list-style-type: none;
+}
+.S-icons{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    background-color: blueviolet;
+    align-items: center;
+    font-size: 2em;
+}
+.Q-links{
+    background-color: yellow;
+}
+.Q-links ol{
+    line-height: 2.5em;
+}
+.O-Movers{
+    background-color: aqua;
+}
+.O-Movers ol{
+    line-height: 2.5em;
+}
+.O-services{
+    background-color: red;
+}
+.O-services ol{
+    line-height: 2.5em;
 }
