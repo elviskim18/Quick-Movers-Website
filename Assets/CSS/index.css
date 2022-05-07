@@ -53,6 +53,7 @@ nav > ul > li{
 }
 .center{
     height: 100vh;
+    width: 100vw;
     margin-bottom: 30px;
     margin-top: 30px;
     display: flex;
@@ -90,5 +91,30 @@ nav > ul > li{
     background-image: linear-gradient(to right, yellow , black);
 }
 
+.movers{
+    height: 100vh;
+    width: 100vw;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    background-color: brown;
 
+    
+}
+.heading{
+background-color: blanchedalmond;
+}
+.container{
+    background-color: blueviolet;
+    display: grid;
+    grid-template-columns: auto auto auto;
+    
+}
+.card{
+    border-radius: solid white;
 
+}
+.card img{
+    
+    height: 200px;
+    width: 200px
+}
