@@ -8,7 +8,10 @@
 ***
 
 ## Screenshot
-![image](/assets/images/Capture.png)
+HOMEPAGE
+![image](./Assets/Images/homepage.png)
+MOVERSPAGE
+![image](./Assets/Images/moverspage.png.png.png)
 
 ## Table of content
 - [Technologies]
@@ -48,7 +51,7 @@ change directory using command
 
 #### method two
  - run the following live link in your browser 
-
+https://elviskim18.github.io/Quick-Movers-Website/
 
 ***
 ## How to use the project
