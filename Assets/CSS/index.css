@@ -292,7 +292,7 @@ ol{
      /*Center Section*/
 
 .center2{
-    height: 340vh;
+    height: 270vh;
     background-color: rgba(90, 88, 88, 0.096);
     margin-right: 10%;
     margin-left: 10%;
@@ -562,3 +562,72 @@ i{
 }
 
 
+/*Footer2*/
+
+.foot2{
+    height: 90vh;
+    background-color: black;
+    color: white;
+}
+.foot2 h2{
+    font-size: 2em;
+    color: white;
+    font-weight: lighter;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding: 5%;
+}
+span{
+    color: #FFAC12;
+}
+.gradient3{
+    border: solid white;
+    border-width: thin;
+    margin-left: 10%;
+    margin-right: 10%;
+    opacity: 0.2;
+    
+}
+
+.footContainer2{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 2%;
+    height: 70vh;
+    font-size: 2em;
+    
+}
+ol{
+    list-style-type: none;
+}
+.S-icons{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 2em;
+}
+.S-icons i{
+    color: white;
+    margin: 1.0em;
+}
+
+.Q-links ol{
+    line-height: 2.5em;
+}
+
+.O-Movers ol{
+    line-height: 2.5em;
+}
+
+.O-services ol{
+    line-height: 2.5em;
+}
+#lhead{
+    font-weight: lighter;
+    font-style: italic;
+    font-size: 1.5em;
+}
