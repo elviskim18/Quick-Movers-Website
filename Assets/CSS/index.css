@@ -425,26 +425,31 @@ form-main button:hover{
     color: rgb(0, 0, 0);
 }
 .mid2{
-    border-left:1px solid rgba(0, 0, 0, 0.171);
-    border-right:1px solid rgba(0, 0, 0, 0.171);
+    border-left:1px solid rgba(0, 0, 0, 0.150);
+    border-right:1px solid rgba(0, 0, 0, 0.150);
 }
 /*center5*/
 
 .center5{
     height: 40vh;
     width: 40vw;
-    background-color: rgba(255, 255, 255, 0.753);
+    background-color: white;
     border-radius: 15px;
     margin-top: 3%;
+    
 }
-.center5 h2{
+.center5 > h2{
     font-size: 2em;
     margin-left: 3%;
     font-weight: lighter;
-    background-color: yellow;
+    padding-top: 2%;
     
 }
 .grad5{
-    border: solid rgba(0, 0, 0, 0.171);
+    border-top:1px solid rgba(0, 0, 0, 0.150);
     margin-top: 5%;
+}
+.center5 p{
+    padding-top: 2%;
+    margin-left: 3%;
 }
