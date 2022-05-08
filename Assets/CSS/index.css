@@ -428,3 +428,23 @@ form-main button:hover{
     border-left:1px solid rgba(0, 0, 0, 0.171);
     border-right:1px solid rgba(0, 0, 0, 0.171);
 }
+/*center5*/
+
+.center5{
+    height: 40vh;
+    width: 40vw;
+    background-color: rgba(255, 255, 255, 0.753);
+    border-radius: 15px;
+    margin-top: 3%;
+}
+.center5 h2{
+    font-size: 2em;
+    margin-left: 3%;
+    font-weight: lighter;
+    background-color: yellow;
+    
+}
+.grad5{
+    border: solid rgba(0, 0, 0, 0.171);
+    margin-top: 5%;
+}
