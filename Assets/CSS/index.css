@@ -478,5 +478,19 @@ form-main button:hover{
 }
 .sub-feature > ol > li{
     padding: 10px;
+}
+/*center7*/
+.center7{
+    height: 60vh;
+    width: 100%;
+    background-color: rgb(247, 9, 9);
+    border-radius: 15px;
+    margin-top: 3%
+}
+.center7 h1{
+    font-weight: lighter;
+    font-size: 4em;
+    margin-left: 5%;
+    margin-bottom: 5%;
 
 }
