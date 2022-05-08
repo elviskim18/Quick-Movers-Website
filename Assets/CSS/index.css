@@ -483,7 +483,7 @@ form-main button:hover{
 .center7{
     height: 60vh;
     width: 100%;
-    background-color: rgb(247, 9, 9);
+    
     border-radius: 15px;
     margin-top: 3%
 }
@@ -491,6 +491,74 @@ form-main button:hover{
     font-weight: lighter;
     font-size: 4em;
     margin-left: 5%;
-    margin-bottom: 5%;
+    margin-bottom: 3%;
 
 }
+
+.container2{
+    display: flex;
+    flex-direction: row;
+    overflow: hidden;
+    overflow-x: auto;
+    
+    margin-left: 5%;
+    
+}
+.card2{
+    background-color: white;
+    height: 40vh;
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    padding: 20px;
+    
+
+}
+.card2 p{
+    position: absolute;
+    bottom: 15%;
+    margin-left: 5%;
+    font-size: 2em;
+}
+.card2 img{
+    width: 18vw;
+}
+.bottomdivs2{
+    display: inline-grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    position: absolute;
+    bottom: 0px;
+    width: 100%;
+}   
+.bottomdivs2 > div{
+display: flex;
+justify-content: center;
+align-items: center;
+} 
+#bottomicons2{
+    border-top: 1px solid rgba(0, 0, 0, 0.150);
+    padding: 10px;
+}
+#overflo{
+    height: 30vh;
+}
+.mid2{
+    border-left:1px solid rgba(0, 0, 0, 0.150) ;
+    border-right: 1px solid rgba(0, 0, 0, 0.150);
+}
+i{
+    margin-right: 0.7rem;
+    font-size: 2em;
+    color: rgb(0, 0, 0);
+}
+/*Add scroll bar in chrome*/
+.container2::-webkit-scrollbar{
+    display: none;
+}
+/*Add scroll bar in firefox*/
+.container2{
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+}
+
+
