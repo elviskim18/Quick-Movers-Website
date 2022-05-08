@@ -467,3 +467,16 @@ form-main button:hover{
     font-weight: lighter;
     padding-top: 2%;
 }
+.m-feature{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.sub-feature{
+    margin-right: 10%;
+    padding: 3%;
+}
+.sub-feature > ol > li{
+    padding: 10px;
+
+}
