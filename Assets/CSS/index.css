@@ -453,3 +453,17 @@ form-main button:hover{
     padding-top: 2%;
     margin-left: 3%;
 }
+/*center*/
+.center6{
+    height: 38vh;
+    width: 40vw;
+    background-color: white;
+    border-radius: 15px;
+    margin-top: 3%;
+}
+.center6 > h2{
+    font-size: 2em;
+    margin-left: 3%;
+    font-weight: lighter;
+    padding-top: 2%;
+}
