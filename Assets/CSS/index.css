@@ -390,34 +390,41 @@ form-main button:hover{
 .center4{
     height: 15vh;
     width: 40vw;
-    background-color: blue;
+    background-color: white;
     border-radius: 12px;
     margin-top: 5%;
     display: flex;
     flex-direction: column;
     position: relative;
 }
-.grad5{
-    border: solid black;
+.center4 h2{
+    font-size: 2em;
+    margin-left: 3%;
+    font-weight: lighter;
+    margin-top: 3%;
 }
 .bot-divs{
     width: 40vw;
     display: inline-grid;
-    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
     position: absolute;
     bottom: 0px;
     
 }
 .bot-divs > div{
     display: inline-block;
-    background-color: orchid;
+    border-top: 1px solid rgba(0, 0, 0, 0.171);
+    display: flex;
+    justify-content: center;
+    align-items: center;
     
-    } 
-.bot-icons{
-  
-    
-}
+} 
+
 .bot-icons i{
     font-size: 2em;
     color: rgb(0, 0, 0);
+}
+.mid2{
+    border-left:1px solid rgba(0, 0, 0, 0.171);
+    border-right:1px solid rgba(0, 0, 0, 0.171);
 }
