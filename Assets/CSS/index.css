@@ -177,7 +177,7 @@ i{
 
 .foot{
     height: 90vh;
-    background-color: black;
+    background-image: linear-gradient(to right, black , #1f1401ef);
     color: white;
 }
 .foot h2{
@@ -566,7 +566,7 @@ i{
 
 .foot2{
     height: 90vh;
-    background-color: black;
+    background-image: linear-gradient(to right, black , #1f1401ef);
     color: white;
 }
 .foot2 h2{
@@ -575,10 +575,18 @@ i{
     font-weight: lighter;
     margin-left: 5%;
     margin-right: 5%;
-    padding: 5%;
+    padding: 3%;
 }
 span{
     color: #FFAC12;
+}
+.foot2 h3{
+    color:black;
+    float: right;
+    padding: 20px;
+    background-color: #FFAC12;
+    border-top-right-radius: 10px;
+    
 }
 .gradient3{
     border: solid white;
