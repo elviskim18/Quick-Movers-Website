@@ -367,8 +367,8 @@ form-main button:hover{
 /*center3*/
 
 .center3{
-    margin-top: 3%;
-    height: 15vh;
+    
+    height: 10vh;
     width: 40vw;
     
     display: flex;
@@ -376,11 +376,12 @@ form-main button:hover{
 
 }
 .smallimg{
-    background-color: #FFAC12;
-    border: solid black;
-    padding: 3.5em;
-    border-top-right-radius: 10px;
-
+    margin-top: 3%;
+    height: 10vh;
+}
+.smallimg img{
     
+    height: 10vh;
 
 }
+
