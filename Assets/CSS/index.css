@@ -364,3 +364,23 @@ ol{
 form-main button:hover{
     color: #FFAC12;
 }
+/*center3*/
+
+.center3{
+    margin-top: 3%;
+    height: 15vh;
+    width: 40vw;
+    
+    display: flex;
+    justify-content: space-between;
+
+}
+.smallimg{
+    background-color: #FFAC12;
+    border: solid black;
+    padding: 3.5em;
+    border-top-right-radius: 10px;
+
+    
+
+}
