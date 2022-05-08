@@ -14,7 +14,7 @@ ul{
     list-style-type: none;
 }
 .head{
-    background-image: url("../Images/moving\ 1.png");
+    background-image: url("../Images/background.png");
     background-size: cover;
     background-position: center center;
     background-repeat: no-repeat;
