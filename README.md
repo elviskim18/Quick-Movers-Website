@@ -50,8 +50,8 @@ change directory using command
 - $cd landing-page
 
 #### method two
- - run the following live link in your browser 
-https://elviskim18.github.io/Quick-Movers-Website/
+ - run the following live link in your browser https://elviskim18.github.io/Quick-Movers-Website/
+
 
 ***
 ## How to use the project
